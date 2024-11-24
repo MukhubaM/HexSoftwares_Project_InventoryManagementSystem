@@ -76,9 +76,9 @@ Update the database connection settings in the DatabaseConnection class:
 
 String url = "jdbc:mysql://localhost:3306/inventorydb";
 
-String user = "yourusername";
+String user = "username";
 
-String password = "yourpassword";
+String password = "password";
 
 
 //
