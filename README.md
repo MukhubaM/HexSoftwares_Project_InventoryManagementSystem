@@ -29,8 +29,11 @@ Technologies Used:
 
 
 Programming Language-> Java.
+
 Database-> MySQL.
+
 GUI Framework-> Swing.
+
 Database Connectivity-> JDBC.
 
 
