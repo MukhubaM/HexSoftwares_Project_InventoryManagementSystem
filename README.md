@@ -81,14 +81,23 @@ String user = "username";
 String password = "password";
 
 
+
 //
 //
+
+
 
 
 Run the Application:
 
+
 Open the project in an IDE (e.g., IntelliJ IDEA or Eclipse).
 Build and run the application.
+
+
+//
+//
+
 
 
 Project Structure
@@ -102,10 +111,15 @@ controllers: Manages the interaction between views and models.
 utils: Utility classes for database connection and other shared functionality.
 
 
+
 //
 //
 
+
+
 Future Enhancements
+
+
 Add reporting and analytics for inventory trends.
 Implement user authentication and role-based access control.
 Provide support for exporting data to CSV or PDF formats.
