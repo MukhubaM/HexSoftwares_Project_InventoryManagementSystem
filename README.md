@@ -22,7 +22,11 @@ Stores data securely in a MySQL database for persistence and reliability.
 Responsive GUI:
 Intuitive graphical interface built with Java Swing for ease of use.
 
-\n
+
+
+
+
+
 
 Technologies Used:
 
