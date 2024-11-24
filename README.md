@@ -23,17 +23,26 @@ Responsive GUI:
 Intuitive graphical interface built with Java Swing for ease of use.
 
 
+
 Technologies Used:
 
+
 Programming Language: Java
+
 Database: MySQL
+
 GUI Framework: Swing
+
 Database Connectivity: JDBC
+
+
+
 Installation and Setup
+
 Clone the Repository:
 
-bash
 "Copy code"
+
 git clone https://github.com/yourusername/inventory-management-system.git
 cd inventory-management-system
 Database Setup:
