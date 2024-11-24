@@ -27,13 +27,11 @@ Intuitive graphical interface built with Java Swing for ease of use.
 Technologies Used:
 
 
-Programming Language: Java
 
-Database: MySQL
-
-GUI Framework: Swing
-
-Database Connectivity: JDBC
+Programming Language-> Java.
+Database-> MySQL.
+GUI Framework-> Swing.
+Database Connectivity-> JDBC.
 
 
 
