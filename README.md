@@ -2,23 +2,29 @@
 Inventory Management System is a Java-based desktop application designed to help businesses efficiently manage their inventory and transactions. Built with a user-friendly graphical interface using Swing and robust database integration with MySQL, this system offers essential functionalities to streamline inventory management processes.
 
 
-Features
-Product Management:
+
+Features Product Management:
 Add, update, delete, and view product details, including name, quantity, and price.
+
 
 Transaction Management:
 Record, update, and view transaction details, including sales and purchases.
 
+
 Search and Filter:
 Search products and transactions using filters for quick access to information.
+
 
 Database Integration:
 Stores data securely in a MySQL database for persistence and reliability.
 
+
 Responsive GUI:
 Intuitive graphical interface built with Java Swing for ease of use.
 
-Technologies Used
+
+Technologies Used:
+
 Programming Language: Java
 Database: MySQL
 GUI Framework: Swing
